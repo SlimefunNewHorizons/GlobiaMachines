@@ -50,50 +50,12 @@ The production artifact is written to `target/GlobiaSlimefun v1.0.0.jar`.
 - A full server restart is required after updating the JAR.
 - Existing machines remain valid because this port does not migrate or rewrite stored data.
 
-## License
+---
 
-See [LICENSE](LICENSE). Maintained for DrakesCraft by [DrakesCraft-Labs](https://github.com/DrakesCraft-Labs).
+## 📄 License & Upstream Attribution
 
-## Qué añade al juego
+This project is a sovereign fork maintained by [**JackStar6677-1**](https://github.com/JackStar6677-1) under [**DrakesCraft Labs**](https://github.com/DrakesCraft-Labs).
 
-A generic Slimefun4-Addon that adds some custom stuff for the Globia geopol
-
-
-Todo se fabrica y se investiga desde la guía normal (`/sf guide`), como cualquier otro contenido
-de Slimefun: no hace falta ningún comando especial para empezar.
-
-## Compatibilidad
-
-| | |
-|---|---|
-| Servidor | Paper / Purpur **1.21.11** |
-| Java | **21** |
-| Requiere | [Slimefun4-Drake](https://github.com/DrakesCraft-Labs/Slimefun4-Drake) |
-| Lado | Solo servidor — quien juega no instala nada |
-| Versión | ${project.version} |
-
-## Instalación
-
-1. Descarga el `.jar` de la última versión.
-2. Déjalo en la carpeta `plugins/` del servidor, junto a Slimefun.
-3. Reinicia el servidor. Los objetos aparecen solos en la guía.
-
-> Este addon está portado al fork de Slimefun de DrakesCraft. Con el Slimefun original puede no
-> cargar, porque cambia el espacio de nombres de las clases.
-
-## Créditos
-- Fhoz
-
-Port y mantenimiento por **DrakesCraft Labs**. La autoría original es de quien figura arriba; el detalle está en [docs/UPSTREAM_ATTRIBUTION.md](https://raw.githubusercontent.com/DrakesCraft-Labs/GlobiaMachines/main/docs/UPSTREAM_ATTRIBUTION.md).
-
-Licencia **MIT**.
-
-## ⚖️ Upstream Attribution & License / Licencia y Créditos
-
-- **Original Project / Upstream**: Slimefun4 Community Addon.
-- **Port & Maintenance**: DrakesCraft Labs team (Compatibility for Paper / Purpur 1.21.11).
-- **License**: GPL-3.0 / MIT.
-- **Source Code**: [GitHub Repository](https://github.com/DrakesCraft-Labs/GlobiaMachines)
-- **Support & Issues**: [GitHub Issues](https://github.com/DrakesCraft-Labs/GlobiaMachines/issues) | [Discord](https://discord.gg/rv3vtXZTk7)
-
-*This project is an open-source derivative work maintained by DrakesCraft Labs under the terms of its original license. All original assets and concepts belong to their respective creators.*
+- **Original Project:** Created by the upstream authors and the open-source community.
+- **DrakesCraft Optimizations:** Modernized for Paper/Purpur 1.21.11+, Java 21, high concurrency, asynchronous safety, and exploit/duplication prevention.
+- **License:** Distributed under the original **GNU General Public License v3.0 (GPLv3)** (or original upstream license). See the [LICENSE](LICENSE) file for complete terms.
