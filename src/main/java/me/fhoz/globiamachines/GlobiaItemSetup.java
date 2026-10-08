@@ -1,10 +1,10 @@
 package me.fhoz.globiamachines;
 
-import com.github.drakescraft_labs.slimefun4.api.items.groups.NestedItemGroup;
-import com.github.drakescraft_labs.slimefun4.api.items.groups.SubItemGroup;
-import com.github.drakescraft_labs.slimefun4.api.recipes.RecipeType;
-import com.github.drakescraft_labs.slimefun4.implementation.SlimefunItems;
-import com.github.drakescraft_labs.slimefun4.libraries.dough.items.CustomItemStack;
+import io.github.thebusybiscuit.slimefun4.api.items.groups.NestedItemGroup;
+import io.github.thebusybiscuit.slimefun4.api.items.groups.SubItemGroup;
+import io.github.thebusybiscuit.slimefun4.api.recipes.RecipeType;
+import io.github.thebusybiscuit.slimefun4.implementation.SlimefunItems;
+import io.github.thebusybiscuit.slimefun4.libraries.dough.items.CustomItemStack;
 import me.fhoz.globiamachines.machines.BudgetDustFabricator;
 import me.fhoz.globiamachines.utils.GlobiaItems;
 import org.bukkit.Material;

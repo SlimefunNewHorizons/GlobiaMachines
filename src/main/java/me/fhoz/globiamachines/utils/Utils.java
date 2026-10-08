@@ -1,12 +1,12 @@
 package me.fhoz.globiamachines.utils;
 
-import com.github.drakescraft_labs.slimefun4.implementation.Slimefun;
-import com.github.drakescraft_labs.slimefun4.libraries.dough.common.ChatColors;
-import com.github.drakescraft_labs.slimefun4.libraries.dough.protection.Interaction;
+import io.github.thebusybiscuit.slimefun4.implementation.Slimefun;
+import io.github.thebusybiscuit.slimefun4.libraries.dough.common.ChatColors;
+import io.github.thebusybiscuit.slimefun4.libraries.dough.protection.Interaction;
 import me.fhoz.globiamachines.GlobiaMachines;
 import me.mrCookieSlime.CSCoreLibPlugin.general.Inventory.ChestMenu;
 import me.mrCookieSlime.CSCoreLibPlugin.general.Inventory.ClickAction;
-import com.github.drakescraft_labs.slimefun4.legacy.api.inventory.BlockMenuPreset;
+import me.mrCookieSlime.Slimefun.api.inventory.BlockMenuPreset;
 import org.apache.commons.lang.WordUtils;
 import org.bukkit.Bukkit;
 import org.bukkit.ChatColor;
