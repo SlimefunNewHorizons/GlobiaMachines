@@ -33,7 +33,7 @@ GlobiaMachines is a maintained Slimefun addon for the DrakesCraft 1.21.11 ecosys
 | Java | 21 |
 | Slimefun | DrakesCraft maintained core |
 
-This repository is maintained independently by DrakesCraft-Labs. It is not a fork dependency and does not require the upstream repository at runtime.
+This repository is maintained independently by SlimefunNewHorizons. It is not a fork dependency and does not require the upstream repository at runtime.
 
 ## Build
 
